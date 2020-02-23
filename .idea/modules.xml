@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/nginx/nginx.iml" filepath="$PROJECT_DIR$/nginx/nginx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-event-sender/rabbitmq-event-sender.iml" filepath="$PROJECT_DIR$/rabbitmq-event-sender/rabbitmq-event-sender.iml" />
+    </modules>
+  </component>
+</project>
